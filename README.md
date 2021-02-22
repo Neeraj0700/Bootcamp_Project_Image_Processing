@@ -5,7 +5,6 @@
 
 > If that word is not mentioned in the Database, then user can click on Feedback button so that he/she can send feedback to developer to add those words in the database that are not mentioned earlier.
 
-### Some screenshots of GUI
 
 ### Main root window 
 
